@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Syntax_Sugar/1.0.0": {
+        "runtime": {
+          "Syntax_Sugar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syntax_Sugar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

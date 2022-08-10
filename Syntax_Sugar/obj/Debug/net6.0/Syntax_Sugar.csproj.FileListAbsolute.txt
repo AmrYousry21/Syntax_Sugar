@@ -1,0 +1,15 @@
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.exe
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.deps.json
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.runtimeconfig.json
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.dll
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.pdb
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.csproj.AssemblyReference.cache
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.AssemblyInfoInputs.cache
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.AssemblyInfo.cs
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.csproj.CoreCompileInputs.cache
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.dll
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\refint\Syntax_Sugar.dll
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.pdb
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.genruntimeconfig.cache
+C:\Users\Amr Yousry\Desktop\repos\Syntax_Sugar\Syntax_Sugar\obj\Debug\net6.0\ref\Syntax_Sugar.dll
